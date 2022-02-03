@@ -24,6 +24,7 @@ body{
 .logo{
     height: 100px;
     padding: 0 0.5%;
+    size: cover;
 }
 
 #header-img{
@@ -33,7 +34,7 @@ body{
     height: 100px;
     margin-left: 30px;
     padding-top: 5px;
-    size: cover;
+    
     
 }
     
